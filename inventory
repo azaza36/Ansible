@@ -1,1 +1,4 @@
-adm-srv-p5
+tuxadmin-srv-p1
+
+[all:vars]
+ansible_user=azaza
