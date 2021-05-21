@@ -1,3 +1,4 @@
+[host]
 tuxadmin-srv-p1
 
 [all:vars]
